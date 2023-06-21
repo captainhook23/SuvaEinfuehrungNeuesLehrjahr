@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(147, 36, 151);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-size: 36px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  text-shadow: 0px 18px 15px rgb(255, 255, 255);
+}
+header div {
+  background-color: transparent;
+  text-align: center;
+}
+header div p {
+  background-color: transparent;
+}
+
+main {
+  width: -moz-max-content;
+  width: max-content;
+  height: auto;
+  padding: 5%;
+  margin: auto;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border: none;
+  border-radius: 50px;
+  background-color: white;
+}
+main .aufgaben {
+  border: 1px black dashed;
+  padding: 13px;
+  text-align: center;
+}
+main .aufgaben h1 {
+  text-align: center;
+  margin-bottom: 13%;
+  border: 1px black solid;
+  padding: 5px;
+  min-width: 433px;
+  border-radius: 15px;
+  background-color: rgba(236, 234, 234, 0.521);
+}
+main .aufgaben div {
+  border: 2px orange dotted;
+  padding: 5px;
+  border-radius: 4px;
+  margin-bottom: 13%;
+}
+main .aufgaben button {
+  border: none;
+  background-color: rgb(23, 235, 23);
+  padding: 12px;
+  text-align: center;
+  border-radius: 9px;
+  color: rgb(3, 121, 13);
+}
+
+footer {
+  width: 100%;
+  padding: 29px;
+  text-align: center;
+  background-color: rgb(66, 62, 62);
+  color: aliceblue;
+  bottom: 0px;
+  margin-top: auto;
+}/*# sourceMappingURL=main.css.map */
