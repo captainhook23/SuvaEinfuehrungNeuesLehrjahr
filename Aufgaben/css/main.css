@@ -54,13 +54,15 @@ main .aufgaben h1 {
   border-radius: 15px;
   background-color: rgba(236, 234, 234, 0.521);
 }
-main .aufgaben div {
+main .aufgaben #myBox {
   border: 2px orange dotted;
   padding: 5px;
+  width: 432.84px;
+  height: 30px;
   border-radius: 4px;
   margin-bottom: 13%;
 }
-main .aufgaben button {
+main .aufgaben #myButton {
   border: none;
   background-color: rgb(23, 235, 23);
   padding: 12px;
@@ -68,13 +70,33 @@ main .aufgaben button {
   border-radius: 9px;
   color: rgb(3, 121, 13);
 }
+main p {
+  margin-bottom: 10px;
+  margin-top: 5px;
+  color: grey;
+}
+main p strong {
+  color: black;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+main a {
+  text-align: center;
+  font-size: 19px;
+  text-decoration: none;
+  color: rgb(6, 6, 102);
+  background-color: rgba(0, 0, 255, 0.623);
+  padding: 5px;
+  border: none;
+  border-radius: 9px;
+}
 
 footer {
   width: 100%;
   padding: 29px;
   text-align: center;
-  background-color: rgb(66, 62, 62);
+  background-color: rgba(66, 62, 62, 0);
   color: aliceblue;
-  bottom: 0px;
   margin-top: auto;
 }/*# sourceMappingURL=main.css.map */

@@ -17,8 +17,8 @@
 
 ### Manuel Wicki
 
-- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17
-- Hobbies: &nbsp;Server, Keller
+- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16
+- Hobbies: &nbsp;Server, Kellerkind
 - Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAP
 
 ### Sven Lussmann
