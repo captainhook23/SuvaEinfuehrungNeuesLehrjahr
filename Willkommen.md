@@ -1,43 +1,52 @@
-# Welcome to Our Apprenticeship Program
+# Willkommen in der Suva
 
-## Introduction
+## **Vorstellung**
 
-Dear Apprentices,
+| Name             | Lehrjahr |
+|:-----------------|:--------:|
+| Levin Zimmermann |    2.    |
+| Manuel Wicki     |    2.    |
+| Sven Lussmann    |    3.    |
 
-We are thrilled to extend a warm welcome to each one of you as you join our prestigious apprenticeship program. This is an exciting opportunity for you to gain valuable knowledge and skills in your chosen field, and we are delighted to have you on board.
 
-## Our Vision
+### Levin Zimmermann
 
-At our company, we believe in fostering a culture of learning, growth, and innovation. Our apprenticeship program is designed to provide you with hands-on experience, mentorship, and a supportive environment to help you thrive in your professional journey. We aim to nurture your talents, sharpen your skills, and empower you to make meaningful contributions.
+- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17
+- Hobbies: &nbsp;Schlagzeug
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMS
 
-## Your Role
+### Manuel Wicki
 
-As apprentices, you will have the chance to work alongside seasoned professionals who are eager to share their expertise with you. This program is designed to give you practical exposure to real-world projects, enabling you to develop a strong foundation and a deep understanding of your chosen field.
+- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17
+- Hobbies: &nbsp;Server, Keller
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAP
 
-We encourage you to actively engage in discussions, ask questions, and seek guidance from your mentors and colleagues. This is your opportunity to explore, experiment, and learn from both successes and challenges. Embrace every experience with enthusiasm, as it will contribute to your growth as professionals.
+### Sven Lussmann
 
-## Support and Guidance
+- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26
+- Hobbies: &nbsp;Wandern, Kochen
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMS
 
-Throughout your apprenticeship, you will have access to a network of mentors and fellow apprentices who will provide support and guidance. Our mentors are experienced individuals who are committed to helping you succeed. They will be available to answer your questions, provide feedback, and assist you in overcoming any obstacles you may encounter.
+## **Tagesplanung**
 
-We also encourage you to collaborate and learn from your fellow apprentices. Building connections and fostering a supportive community is an integral part of this program. By sharing your experiences, challenges, and insights, you will create a valuable support system that will enhance your learning journey.
+### **Morgens**
+- **08:00** &nbsp;&nbsp;-&nbsp;Vorstellung von uns...
+- **08:15** &nbsp;&nbsp;-&nbsp;ÜK Notebooks aufsetzen
+- **09:00** &nbsp;&nbsp;-&nbsp;Pause/Kaffee
+- **09:30** &nbsp;&nbsp;-&nbsp;Einführung in Html und Css
+- **10:00** &nbsp;&nbsp;-&nbsp; Eigene Webseite erstellen
+- **11:30** &nbsp;&nbsp;-&nbsp; Vorstellung von euch mittels eigener Webseite (Cheatsheet)
+- **12:00** &nbsp;&nbsp;-&nbsp; Mittag
+### **Nachmittags**
+- **13:00** &nbsp;&nbsp;-&nbsp;Einführung Javascript
+- **13:30** &nbsp;&nbsp;-&nbsp;Aufgaben Javascript
+- **15:00** &nbsp;&nbsp;-&nbsp;Fragen zur Lehre?
 
-## Your Commitment
+## **ÜK Notebooks aufsetzen**
 
-As an apprentice, your commitment and dedication are crucial to your success. We expect you to embrace a growth mindset, be proactive in seeking learning opportunities, and take ownership of your professional development. This program is designed to help you flourish, but it requires your active participation and engagement.
-
-We encourage you to set goals, track your progress, and reflect on your learnings regularly. Remember, mistakes are valuable stepping stones to growth, so embrace them as opportunities for improvement. Be open to feedback, adapt to new challenges, and always strive for excellence.
-
-## Conclusion
-
-Once again, we extend our warmest welcome to all our apprentices. This program marks the beginning of an exciting journey filled with learning, growth, and endless possibilities. We are confident that you will make the most of this opportunity and emerge as accomplished professionals.
-
-If you have any questions or need assistance, please feel free to reach out to your mentors or the program coordinator. We are here to support you and help you succeed.
-
-Wishing you a rewarding and enriching experience!
-
-Best regards,
-
-[Your Name]
-[Your Position]
-[Company Name]
+**Benötigte Programme:**
+- VisualStudio Code (Alle Sprachen)
+- VisualStudio (C#)
+- XAMPP
+- Azure / MySQL
+- Discord
