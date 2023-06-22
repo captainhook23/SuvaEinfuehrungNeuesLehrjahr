@@ -30,13 +30,13 @@
 ## **Tagesplanung**
 
 ### **Morgens**
-- **08:00** &nbsp;&nbsp;-&nbsp;Vorstellung von uns...
-- **08:15** &nbsp;&nbsp;-&nbsp;ÜK Notebooks aufsetzen
-- **09:00** &nbsp;&nbsp;-&nbsp;Pause/Kaffee
-- **09:30** &nbsp;&nbsp;-&nbsp;Einführung in Html und Css
-- **10:00** &nbsp;&nbsp;-&nbsp; Eigene Webseite erstellen
-- **11:30** &nbsp;&nbsp;-&nbsp; Vorstellung von euch mittels eigener Webseite (Cheatsheet)
-- **12:00** &nbsp;&nbsp;-&nbsp; Mittag
+- **08:00** &nbsp;&nbsp;-&nbsp;&nbsp;Vorstellung von uns...
+- **08:15** &nbsp;&nbsp;-&nbsp;&nbsp;ÜK Notebooks aufsetzen
+- **09:00** &nbsp;&nbsp;-&nbsp;&nbsp;Pause/Kaffee
+- **09:30** &nbsp;&nbsp;-&nbsp;&nbsp;Einführung in Html und Css
+- **10:00** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> ```Eigene Webseite erstellen```
+- **11:30** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> `Vorstellung von euch mittels eigener Webseite (Cheatsheet)`
+- **12:00** &nbsp;&nbsp;-&nbsp;&nbsp;Mittag
 ### **Nachmittags**
 - **13:00** &nbsp;&nbsp;-&nbsp;Einführung Javascript
 - **13:30** &nbsp;&nbsp;-&nbsp;Aufgaben Javascript
@@ -50,3 +50,4 @@
 - XAMPP
 - Azure / MySQL
 - Discord
+- Weitere app durch Manuels BackUp
