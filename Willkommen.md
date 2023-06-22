@@ -77,6 +77,7 @@
 
 ## **Einführung in HTML & CSS**
 - Cheatsheet
+Einführung Powerpoint
 
 ## **Eigene Webseite erstellen**
 - Versucht, eurer Kreativität freien Lauf zu lassen.
@@ -91,9 +92,10 @@
 - https://www.w3schools.com/js/
 
 ## **Vorstellung von euch**
+:D
 
 ## **JavaScript**
-
+Einführung Powerpoint?
 ## **Aufgaben JavaScript**
 
 ## **Drucker Pin setzen**
