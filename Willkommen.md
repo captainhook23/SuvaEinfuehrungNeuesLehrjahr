@@ -104,7 +104,7 @@ Einführung Powerpoint?
 ## **Schulische Sachen**
 - Stefan Lagger: aufpassen wegen aufmerksamkeit und nicht am Pc sein, sonst ist er angepisst.
 - Roland Bucher: aufpassen, Hausaufgaben erledigen.
-- Kaufmann: Kopfhörer, offene Dosen.
+- Peter Kaufmann: Kopfhörer, offene Dosen.
 - Markus Ineichen: Eigentlich netter Lehrer, aber manchmal nicht wirklich Ahnung vom Thema.
 
 ## **Fragen zur Lehre?**
