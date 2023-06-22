@@ -34,6 +34,7 @@
 - **08:15** &nbsp;&nbsp;-&nbsp; ÜK Notebooks aufsetzen
 - **09:00** &nbsp;&nbsp;-&nbsp; Pause/Kaffee
 - **09:15** &nbsp;&nbsp;-&nbsp; Github
+- **09:30** &nbsp;&nbsp;-&nbsp; Plug-Ins Visaul Studio
 - **09:30** &nbsp;&nbsp;-&nbsp;&nbsp;Einführung in Html und Css
 - **10:00** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> `Eigene Webseite erstellen`
 - **10:30** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> `Vorstellung von euch mittels eigener Webseite (Cheatsheet)`
