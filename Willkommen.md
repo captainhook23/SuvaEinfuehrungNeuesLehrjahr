@@ -13,19 +13,19 @@
 
 - Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17
 - Hobbies: &nbsp;Schlagzeug
-- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMS
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KungFu Shark
 
 ### Manuel Wicki
 
-- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17
-- Hobbies: &nbsp;Server, Keller
-- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAP
+- Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16
+- Hobbies: &nbsp;Server, Kellerkind
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serra
 
 ### Sven Lussmann
 
 - Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26
 - Hobbies: &nbsp;Wandern, Kochen
-- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMS
+- Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KungFu Shark
 
 ## **Tagesplanung**
 
