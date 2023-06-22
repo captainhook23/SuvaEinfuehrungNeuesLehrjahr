@@ -35,9 +35,9 @@
 - **09:00** &nbsp;&nbsp;-&nbsp; Pause/Kaffee
 - **09:15** &nbsp;&nbsp;-&nbsp; Github
 - **09:30** &nbsp;&nbsp;-&nbsp; Plug-Ins Visaul Studio
-- **09:45** &nbsp;&nbsp;-&nbsp; Einführung in HTML und CSS
-- **10:00** &nbsp;&nbsp;-&nbsp; Eigene Webseite erstellen
-- **11:30** &nbsp;&nbsp;-&nbsp; Vorstellung von euch mittels eigener Webseite (Cheatsheet)
+- **09:30** &nbsp;&nbsp;-&nbsp;&nbsp;Einführung in Html und Css
+- **10:00** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> ```Eigene Webseite erstellen```
+- **11:30** &nbsp;&nbsp;-&nbsp;&nbsp;   |-> `Vorstellung von euch mittels eigener Webseite (Cheatsheet)`
 - **12:00** &nbsp;&nbsp;-&nbsp; Mittag
 
 ### **Nachmittags**
