@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Testfälle</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        padding: 0;
+      }
+
+      h1 {
+        text-align: center;
+      }
+
+      .test-case {
+        margin-bottom: 20px;
+        margin-right: 25%;
+        padding: 10px;
+        width: 75%;
+        border-radius: 5px;
+        background-color: #f0f0f0;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .test-case:hover{
+        margin-right: 23%;
+        margin-left: 2%;
+        transition: 0.5s;
+      }
+
+      .test-case-description {
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+
+      .expected-result,
+      .actual-result {
+        margin: 5px 0;
+        padding: 5px;
+      }
+
+      .expected-result::before {
+        content: "Erwartetes Ergebnis: ";
+        font-weight: bold;
+        color: #999;
+      }
+
+      .actual-result::before {
+        content: "Tatsächliches Ergebnis: ";
+        font-weight: bold;
+      }
+
+      .functionNotright{
+        color: rgb(60, 151, 204);
+      }
+
+
+      h1 strong{
+        color: rgb(14, 211, 14);
+      }
+
+
+      .passed-result {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+        border-radius: 15em;
+      }
+
+      .passed {
+        color: green;
+        font-weight: bold;
+      }
+
+      .failed {
+        color: red;
+        font-weight: bold;
+      }
+
+      .passed-box {
+        background-color: rgb(16, 223, 16);
+        font-weight: bold;
+        display: block;
+        position: absolute;
+      }
+
+      .failed-box {
+        background-color: rgb(231, 26, 26);
+        font-weight: bold;
+        display: block;
+        position: absolute;
+      }
+
+      .fulldiv-test-case {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        margin-right: 5%;
+      }
+
+      .undefined{
+        color: darkgoldenrod;
+      }
+
+      /* Weitere spezifische Anpassungen für weitere Testfälle */
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Testfälle</h1>
+
+    <script src="aufgaben2.js"></script>
+    <script>
+      // Testfälle für JavaScript-Aufgaben
+      var testCaseCountpassed = 0;
+      var testCaseCountfailed = 0;
+      function runTest(
+        description,
+        expectedResult,
+        actualResult,
+        testedData,
+        isChildOf = ""
+      ) {
+        var fulldiv = document.createElement("div");
+        fulldiv.classList.add("fulldiv-test-case");
+
+        var testCase = document.createElement("div");
+        testCase.classList.add("test-case");
+
+        var passed = document.createElement("div");
+        passed.classList.add("passed-result");
+        fulldiv.appendChild(passed);
+
+        var testCaseDescription = document.createElement("h2");
+        testCaseDescription.classList.add("test-case-description");
+        testCaseDescription.textContent = description;
+        testCase.appendChild(testCaseDescription);
+
+        var expected = document.createElement("div");
+        expected.classList.add("expected-result");
+        expected.textContent = "" + expectedResult;
+        testCase.appendChild(expected);
+
+        var actual = document.createElement("div");
+        actual.classList.add("actual-result");
+        actual.innerHTML = "" + actualResult;
+        testCase.appendChild(actual);
+
+        if (expectedResult === actualResult) {
+          testCaseDescription.classList.add("passed");
+          passed.classList.add("passed-box");
+          testCaseCountpassed ++
+        } else {
+          testCaseDescription.classList.add("failed");
+          passed.classList.add("failed-box");
+          testCaseCountfailed ++
+        }
+
+        fulldiv.appendChild(testCase);
+
+        document.body.appendChild(fulldiv);
+      }
+
+      // 2. Zwei Zahlen addieren
+      var expectedResult;
+      var actualResult;
+      try {
+        actualResult = addiere(2, 3);
+        expectedResult = 5;
+        if (actualResult === undefined) {
+          runTest("Testfall Addieren", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest("Testfall Addieren", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest("Testfall Addieren", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      // 3. Überprüfen, ob eine Zahl gerade oder ungerade ist
+      var parentDescription;
+
+      try {
+        parentDescription = "Testfall Ist Gerade";
+        expectedResult = true;
+        actualResult = istGerade(4);
+        if (actualResult === undefined) {
+          runTest(parentDescription + ".1", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription + ".1", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest("Testfall Addieren", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      try {
+        expectedResult = false;
+        actualResult = istGerade(7);
+        if (actualResult === undefined) {
+          runTest(parentDescription + ".2", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription + ".2", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription + ".2", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      // 4. Die Summe aller Zahlen in einem Array berechnen
+      try {
+        expectedResult = 15;
+        actualResult = summiereArray([1, 2, 3, 4, 5]);
+        if (actualResult === undefined) {
+          runTest("Testfall Array summieren", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest("Testfall Array summieren", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest("Testfall Array summieren", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      // 5. Überprüfen, ob ein Wort ein Palindrom ist
+      try {
+        parentDescription = "Testfall Palindrom";
+        expectedResult = true;
+        actualResult = istPalindrom("anna");
+        if (actualResult === undefined) {
+          runTest(parentDescription + ".1", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription + ".1", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription + ".1", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      try {
+        expectedResult = false;
+        actualResult = istPalindrom("hallo");
+        if (actualResult === undefined) {
+          runTest(parentDescription + ".2", 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription + ".2", expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription + ".2", 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      // Weitere Testfälle
+
+      // 6. Das größte Element in einem Array finden
+      try {
+        parentDescription = "Testfall grösste Zahl";
+        expectedResult = 9;
+        actualResult = findeGroesstesElement([4, 9, 2, 7, 5]);
+        if (actualResult === undefined) {
+          runTest(parentDescription, 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription, expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription, 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      // 7. Den Umfang eines Kreises berechnen
+      try {
+        parentDescription = "Testfall Umfang des Kreises";
+        expectedResult = 31.41592653589793;
+        actualResult = berechneUmfangKreis(5);
+        if (actualResult === undefined) {
+          runTest(parentDescription, 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription, expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription, 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+      try {
+        parentDescription = "Testfall längstes Wort";
+        expectedResult = "Erdbeere";
+        actualResult = findeLaengstesWort(["Apfel", "Banane", "Erdbeere"]);
+        if (actualResult === undefined) {
+          runTest(parentDescription, 1, "<strong class='undefined'>Funktion gibt 'undefined' zurück</strong>");
+        } else {
+          runTest(parentDescription, expectedResult, actualResult);
+        }
+      } catch (error) {
+        runTest(parentDescription, 1, "<strong class='functionNotright'>Funktion nicht nach Vorgaben!</strong>");
+      }
+
+
+      document.querySelector('h1').innerHTML += " (<strong class='passed'>" + testCaseCountpassed.toString() + "</strong> : <strong class='failed'>" + testCaseCountfailed.toString() + "</strong>)"
+    </script>
+  </body>
+</html>
