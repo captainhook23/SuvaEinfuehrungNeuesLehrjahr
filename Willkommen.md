@@ -1,7 +1,7 @@
 # Willkommen in der Suva
 
 &nbsp;
-## **Vorstellung**
+## Vorstellung
 
 | Levin Zimmermann | 2. Lehrjahr |
 | ---------------- | ----------- |
@@ -23,7 +23,7 @@
 &nbsp;
 &nbsp;
 
-## **Tagesplanung**
+## Tagesplanung
 | Morgens | |
 | ---- | ----- |
 | 08:00 | Vorstellung von uns |
@@ -46,7 +46,7 @@
 | 15:45 | Pandora? (Berufsschule) |
 &nbsp;
 &nbsp;
-## **ÜK Notebooks aufsetzen**
+## ÜK Notebooks aufsetzen
 |Benötigte Programme | DownloadLink |
 | ---------------------------------- | --------------------------- |
 | Visual Studio Code (Alle Sprachen) | https://code.visualstudio.com/ |
@@ -66,7 +66,7 @@
 | Repository Url in Vs Code kopieren | ![vs cone url](./src/copy%20url%20vscode.png) |
 &nbsp;
 
-## **Visal Studio Plug-Ins**
+## Visal Studio Plug-Ins
 
 | Plug-In | Link |
 | ------- | ---- |
@@ -77,12 +77,12 @@
 | Go Lang | ![image go](./src/go.png) | 
 | Java | ![image java](./src/java.png) |
 &nbsp;
-## **Einführung in HTML & CSS**
+## Einführung in HTML & CSS
 
 - Cheatsheet
 - Einführung Powerpoint
 &nbsp;
-## **Eigene Webseite erstellen**
+## Eigene Webseite erstellen
 - Versucht, eurer Kreativität freien Lauf zu lassen.
 - Ihr habt dafür 30 Minuten Zeit.
 - Was alles auf die Webseite muss / Ziele:
@@ -92,27 +92,29 @@
 - [Hilfe CSS](https://www.w3schools.com/css/)
 - [Hilfe JS](https://www.w3schools.com/js/)
 &nbsp;
-## **Vorstellung von euch**
+## Vorstellung von euch
 
-- :D lmao
+![trollface](./src/Trollface_non-free.png)
 
-## **JavaScript**
-
+## Kahoot
+- [Kahoot](https://kahoot.it/)
+## JavaScript
 - Einführung Powerpoint
 
-## **Aufgaben JavaScript**
-
-## **Drucker Pin setzen**
+## Aufgaben JavaScript
+- Selbstständiges Arbeiten
+- Bei Fragen FRAGT Levin. He the Goat of js 
+## Drucker Pin setzen
 - [Drucker Pin setzen](https://wiki.suvanet.ch/pages/viewpage.action?pageId=325008139&preview=%2F325008139%2F325008184%2FDrucker+PIN+setzen.pdf)
-## **Schulische Sachen**
-| Lehrperson | Properties |
-| ---------- | ---------- |
-| Stefan Lagger | aufpassen wegen aufmerksamkeit und nicht am Pc sein, sonst ist er angepisst. |
-|Roland Bucher | aufpassen, Hausaufgaben erledigen. |
-|Peter Kaufmann | Kopfhörer, offene Dosen. |
-| Markus Ineichen | Eigentlich netter Lehrer, aber manchmal nicht wirklich Ahnung vom Thema. |
+## Schulische Sachen
+| Lehrperson | Pros | Cons |
+| ---------- | ---- | ---- |
+| Stefan Lagger | - Hilfsbereit (Auch ausserhalb Bürozeiten!) <br /> - Freundlich <br /> - Mit guter Rethorik kann man bei ihm etwas erreichen. |  - Aufmerksam sein, sonst wird er streng.  |
+|Roland Bucher | - Hilfsbereit (Auch ausserhalb Bürozeiten!) <br /> - Sehr freundlich <br /> - Gute Kentnisse <br /> - Mit guter Rethorik kann man bei ihm viel erreichen.| - Hausaufgaben sollten immer erledigt werden. |
+|Peter Kaufmann | - Kopfhörer, offene Dosen. |
+| Markus Ineichen | - Nett <br /> - Man kann eigentlich gut mit ihm diskutieren | - Leider versteht er den Stoff z.T. selber nicht. <br/> - Sehr trockener Unterricht. |
 
-## **Fragen zur Lehre?**
+## Fragen zur Lehre?
 - BM?
 - Sprachaufenthalte?
 - First / Delph
