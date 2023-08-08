@@ -24,7 +24,7 @@
 ### Sven Lussmann
 
 - Alter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26
-- Hobbies: &nbsp;Wandern, Kochen
+- Hobbies: &nbsp;Wandern, Kochen, Wellness, Pilze sammeln
 - Job: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KungFu Shark
 
 ## **Tagesplanung**
@@ -59,6 +59,18 @@
 
 ## **Visual Studio Code Plug-Ins**
 
+| Github            ||
+| ------            | ------ |
+| Konto erstellen   | ![github](./src/github.png) |
+| Visual Studio mit Github verbinden | ![]() |
+| Repository forken | ![]() |
+| Repository forken GUI | ![]() |
+| Repository klonen | ![]() |
+| Repository klonen GUI | ![]() |
+| Commit mit GUI | ![]() |
+| Synchro mit GUI | ![]() |
+
+
 ## **Github**
 - Konto erstellen -> https://github.com/
 - Visual Studio Code mit Github verbinden
@@ -80,9 +92,10 @@
 - Cheatsheet
 Einführung Powerpoint
 
+
 ## **Eigene Webseite erstellen**
 - Versucht, eurer Kreativität freien Lauf zu lassen.
-- Ihr habt dafür 1.5 Stunden Zeit.
+- Ihr habt dafür 30 Minuten Zeit.
 
 - Was alles auf die Webseite muss / Ziele:
 
