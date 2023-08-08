@@ -80,38 +80,41 @@
 ## **Einführung in HTML & CSS**
 
 - Cheatsheet
-  Einführung Powerpoint
+- Einführung Powerpoint
 &nbsp;
 ## **Eigene Webseite erstellen**
 - Versucht, eurer Kreativität freien Lauf zu lassen.
 - Ihr habt dafür 30 Minuten Zeit.
 - Was alles auf die Webseite muss / Ziele:
 - Versucht die Aufgaben ohne ChatGPT zu lösen.
-- **Hilfestellungen:**
-- https://www.w3schools.com/html/
-- https://www.w3schools.com/css/
-- https://www.w3schools.com/js/
+### Hilfestellungen:
+- [Hilfe HTML](https://www.w3schools.com/html/)
+- [Hilfe CSS](https://www.w3schools.com/css/)
+- [Hilfe JS](https://www.w3schools.com/js/)
 &nbsp;
 ## **Vorstellung von euch**
 
-:D
+- :D lmao
 
 ## **JavaScript**
 
-Einführung Powerpoint?
+- Einführung Powerpoint
 
 ## **Aufgaben JavaScript**
 
 ## **Drucker Pin setzen**
-
+- [Drucker Pin setzen](https://wiki.suvanet.ch/pages/viewpage.action?pageId=325008139&preview=%2F325008139%2F325008184%2FDrucker+PIN+setzen.pdf)
 ## **Schulische Sachen**
-
-- Stefan Lagger: aufpassen wegen aufmerksamkeit und nicht am Pc sein, sonst ist er angepisst.
-- Roland Bucher: aufpassen, Hausaufgaben erledigen.
-- Peter Kaufmann: Kopfhörer, offene Dosen.
-- Markus Ineichen: Eigentlich netter Lehrer, aber manchmal nicht wirklich Ahnung vom Thema.
+| Lehrperson | Properties |
+| ---------- | ---------- |
+| Stefan Lagger | aufpassen wegen aufmerksamkeit und nicht am Pc sein, sonst ist er angepisst. |
+|Roland Bucher | aufpassen, Hausaufgaben erledigen. |
+|Peter Kaufmann | Kopfhörer, offene Dosen. |
+| Markus Ineichen | Eigentlich netter Lehrer, aber manchmal nicht wirklich Ahnung vom Thema. |
 
 ## **Fragen zur Lehre?**
-
-Achtung Tastatur etc. können geklaut werden. Laptops einschliessen oder nach Hause nehmen!!
+- BM?
+- Sprachaufenthalte?
+- First / Delph
+- Achtung Tastatur etc. können geklaut werden. Laptops einschliessen oder nach Hause nehmen!!
 Auf Laptop aufpassen...
