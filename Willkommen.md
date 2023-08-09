@@ -28,13 +28,13 @@
 | ---- | ----- |
 | 08:00 | Vorstellung von uns |
 | 08:15 | ÜK Notebooks aufsetzen |
-| 08:30 | Github |
-| 08:45 | Plug-Ins Visual Studio |
+| 08:30 | Einführung in Html und Css |
 | 09:00 | Pause/Kaffee |
-| 09:30 | Einführung in Html und Css |
-| 10:00 | Eigene Webseite erstellen (Cheatsheet) |
-| 10:30 | Vorstellung von euch mittels eigener Webseite |
-| 11:40 | Kahoot zu Lehre (Appli) |
+| 09:30 | Github |
+| 09:45 | Plug-Ins Visual Studio |
+| 10:20 | Eigene Webseite erstellen (Cheatsheet) |
+| 11:20 | Vorstellung von euch mittels eigener Webseite |
+| 11:40 | Drucker Pin / Pandora |
 | 12:00 | Mittag |
 
 | Nachmittags | |
@@ -42,8 +42,9 @@
 | 13:00 | Einführung JavaScript |
 | 13:30 | Aufgaben JavaScript |
 | 15:00 | Pause/Kaffee |
-| 15:30 | Schulische Sachen...? |
-| 15:45 | Pandora? (Berufsschule) |
+| 15:30 | Schulische Sachen...? / BM |
+| 15:40 | Kahoot zu Lehre (Appli) |
+
 &nbsp;
 &nbsp;
 ## ÜK Notebooks aufsetzen
@@ -56,6 +57,13 @@
 | Discord | https://discord.com/download |
 &nbsp;
       
+## Einführung in HTML & CSS
+
+- Cheatsheet
+- Einführung Powerpoint
+&nbsp;
+
+
 |Github                              |       https://github.com/   | 
 | ---------------------------------- | --------------------------- |
 | Konto erstellen                    | ![github](./src/github.png) |
@@ -64,6 +72,7 @@
 | Repository klonen                  | ![vs code clone](./src/Clone%20Vs.png) |
 | Repository klonen URL              | ![github url](./src/Copy%20url%20github.png) |
 | Repository Url in Vs Code kopieren | ![vs cone url](./src/copy%20url%20vscode.png) |
+| Link Repo | [Repository ]() |
 &nbsp;
 
 ## Visal Studio Plug-Ins
@@ -76,12 +85,9 @@
 | C# Extension | ![image c#](./src/csharp%20plug.png) |
 | Go Lang | ![image go](./src/go.png) | 
 | Java | ![image java](./src/java.png) |
+| Live Server | ![image liveserver](./src/liveserver.png) |
 &nbsp;
-## Einführung in HTML & CSS
 
-- Cheatsheet
-- Einführung Powerpoint
-&nbsp;
 ## Eigene Webseite erstellen
 - Versucht, eurer Kreativität freien Lauf zu lassen.
 - Ihr habt dafür 30 Minuten Zeit.
@@ -96,16 +102,19 @@
 
 ![trollface](./src/Trollface_non-free.png)
 
-## Kahoot
-- [Kahoot](https://kahoot.it/)
+## Drucker Pin setzen
+- [Drucker Pin setzen](https://wiki.suvanet.ch/pages/viewpage.action?pageId=325008139&preview=%2F325008139%2F325008184%2FDrucker+PIN+setzen.pdf)
+
+## Pandora
+- [Pandora](https://drive.google.com/drive/folders/1unDy84w7R2xxEPjtjH2gMRF9UOWyNTXB)
+
 ## JavaScript
 - Einführung Powerpoint
 
 ## Aufgaben JavaScript
 - Selbstständiges Arbeiten
 - Bei Fragen FRAGT Levin. He the Goat of js 
-## Drucker Pin setzen
-- [Drucker Pin setzen](https://wiki.suvanet.ch/pages/viewpage.action?pageId=325008139&preview=%2F325008139%2F325008184%2FDrucker+PIN+setzen.pdf)
+
 ## Schulische Sachen
 | Lehrperson | Pros | Cons |
 | ---------- | ---- | ---- |
@@ -120,3 +129,6 @@
 - First / Delph
 - Achtung Tastatur etc. können geklaut werden. Laptops einschliessen oder nach Hause nehmen!!
 Auf Laptop aufpassen...
+
+## Kahoot
+- [Kahoot](https://kahoot.it/)
